@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+Till now we have understood what Git is and how to create a Git repository. It will be great to take a quick look at the life cycle of files in a Git repository. It is important for us to have an abstract idea of the different stages of Git before going into more detailed understanding of Git. In this tutorial it is expected that you create a mental map of different stages in Git life cycle.
+
+Stages in GIT Life Cycle
+Files in a Git project have various stages like Creation, Modification, Refactoring, and Deletion and so on. Irrespective of whether this project is tracked by Git or not, these phases are still prevalent. However when a project is under Git version control system, they are present in three major Git states in addition to these basic ones. Here are the three Git states:
+=======
+Working directory
+Staging area
+Git directory
+These stages are the essence of Git. You get great flexibility in tracking the files due to these stages that files can reside in under Git. Let's understand each of these states one by one.
+Working Directory
+Consider a project residing in your local system. This project may or may not be tracked by Git. In either case, this project directory is
+>>>>>>> activity4
